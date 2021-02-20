@@ -3,3 +3,12 @@ body{
   text-align: initial;
   font-family: sans-serif;
 }
+content{
+  align-items: justify;
+  width: auto;
+  flex-direction: column-reverse;
+}
+text{
+  color: azure;
+  background-color: blue;
+}
